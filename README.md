@@ -34,5 +34,9 @@ The assignment addresses the following tasks:
   - The Louvain algorithm outperformed the Girvan-Newman algorithm in efficiency, especially for larger datasets.
   - Girvan-Newman offered finer-grained community detection but was computationally expensive.
  
+## Contact
+
+If you have any questions or suggestions, please feel free to reach out to me at nvarjunmani07@gmail.com.
+ 
 
 
